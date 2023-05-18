@@ -1,0 +1,8 @@
+selenium
+xlrd
+xlutils
+xlwt
+PIL
+webdriver
+beautifulsoup4
+requests
